@@ -1,7 +1,7 @@
 /*
-    AUTHOR : SIDDHANT MANZE
-    DATE   : 15/02/2021
+    PROBLEM : FLOW004 (First and Last Digit)
 */
+
 #include<iostream>
 #define ll long long
 using namespace std;
