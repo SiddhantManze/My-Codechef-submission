@@ -1,5 +1,5 @@
 /*
-    PROBLEM : FLOW006
+    PROBLEM : FLOW006 (Sum of Digits)
 */
 
 #include<iostream>
