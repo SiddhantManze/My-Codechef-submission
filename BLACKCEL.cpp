@@ -1,5 +1,5 @@
 /*
-    PROBLEM: BLACKCEL
+    PROBLEM : BLACKCEL (Black cells in a chessboard)
 */
 
 #include <bits/stdc++.h>
