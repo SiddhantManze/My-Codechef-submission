@@ -1,6 +1,5 @@
 /*
-    AUTHOR : SIDDHANT MANZE
-    DATE   : 15/02/2021
+    PROGRAM : TSORT (Turbo Sort)
 */
 
 #include<bits/stdc++.h>
